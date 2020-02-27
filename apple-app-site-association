@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "JMFW9NVQZ5.com.send.flash",
+                "paths": [ "/wxshare/*"]
+            }
+        ]
+    }
+}
